@@ -1,6 +1,6 @@
 # BitonicPixelSorter-WebGPU Demo
 
-[Open demo](https://ruccho.com/bps-web)
+[Open demo](https://ruccho.com/bps-webgpu)
 
 A demo of the GPU-accelarated pixel sorter effect on WebGPU, [which is originally written for Unity](/ruccho/BitonicPixelSorter).
 
