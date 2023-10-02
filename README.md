@@ -2,7 +2,7 @@
 
 [Open demo](https://ruccho.com/bps-webgpu)
 
-A demo of the GPU-accelarated pixel sorter effect on WebGPU, [which is originally written for Unity](/ruccho/BitonicPixelSorter).
+A demo of the GPU-accelarated pixel sorter effect on WebGPU, [which is originally written for Unity](//ruccho/BitonicPixelSorter).
 
 <img src="./image_0.png">
 
@@ -13,4 +13,4 @@ This demo works with transpiled compute shaders originally written in HLSL (Dire
 ### References
 
  - [HLSL→WGSLへの変換をやってみる（SPIR-V経由）](https://nekocha.hatenablog.com/entry/2023/04/10/150132)
- - [BitonicPixelSorter - ruccho](/ruccho/BitonicPixelSorter)
+ - [BitonicPixelSorter - ruccho](//ruccho/BitonicPixelSorter)
